@@ -1,5 +1,7 @@
 # Exploratory data analysis of Olympics ‘21
 
+This project is part of the Knowledge Discovery in Databases (ITCS - 6162) course from University of North Carolina at Charlotte.
+
 ## Introduction:
 Olympics are one of the main International Event and a matter of prestige for countries as more than 200 countries participate and compete. Olympics is held every 4 years but due to the pandemic Olympics 2020 was postponed to 2021. The purpose of our project is to perform visualization and Exploratory Data Analysis on the dataset. We can analyse an entity based on the factors contributing to it. We will perform correlations among the athletes, coaches, gender, medal, and teams participated in olympics’21 to obtain interesting patterns which in turn are used to derive useful insights for the upcoming Olympics.
 
