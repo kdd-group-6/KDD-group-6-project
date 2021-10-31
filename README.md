@@ -17,6 +17,13 @@ The goal of this project is to use proper visualizing techniques and appropriate
 
 Data source: https://www.kaggle.com/arjunprasadsarkhel/2021-olympics-in-tokyo
 
+## Processes Involved
+1. Date Preprocessing.  
+2. Data Understanding and Exploration.  
+3. Data Preparation for Modeling.  
+4. Modeling.  
+5. Evaluation.
+6. Results.  
 
 ## Research questions:
 Which country has the highest number of participants in Olympics 2021 overall?
