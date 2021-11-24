@@ -18,6 +18,7 @@ Medals.xlsx - 4 features.
 The goal of this project is to use proper visualizing techniques and appropriate representation to get meaningful insights out of this data.
 
 Data source: https://www.kaggle.com/arjunprasadsarkhel/2021-olympics-in-tokyo
+Documentation: https://docs.google.com/document/d/1jRtqLEbgMeFCbdo-s8AQDcoV91tcnw_-HNHUgZBFmC8/edit
 
 ## Processes Involved
 1. Date Preprocessing.  
