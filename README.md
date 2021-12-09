@@ -44,6 +44,8 @@ A stacked bar chart is used to show the number of gold, silver and bronze medals
 5. Which country has the highest number of coaches?
 A bargraph map is used to show the number of coaches in each country. We can obtain information about the country that has the highest and lowest number of coaches using this map.
 
+
+
 ## Future work:
 This analysis can be used for future prediction of the participation of countries, analyse the growth of the countries’ athletes, and to strategize and improve the performance of a particular country. Moreover, by doing so we can improve the quality and experience of the Olympic games.
 
