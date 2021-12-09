@@ -17,8 +17,8 @@ Medals.xlsx - 4 features.
 
 The goal of this project is to use proper visualizing techniques and appropriate representation to get meaningful insights out of this data.
 
-Data source: https://www.kaggle.com/arjunprasadsarkhel/2021-olympics-in-tokyo
-Documentation: https://docs.google.com/document/d/1jRtqLEbgMeFCbdo-s8AQDcoV91tcnw_-HNHUgZBFmC8/edit
+## Data Source
+Kaggle Dataset Link: https://www.kaggle.com/arjunprasadsarkhel/2021-olympics-in-tokyo
 
 ## Processes Involved
 1. Date Preprocessing.  
@@ -30,13 +30,13 @@ Documentation: https://docs.google.com/document/d/1jRtqLEbgMeFCbdo-s8AQDcoV91tcn
 
 ## Research questions:
 1. Which country has the highest number of participants in Olympics 2021 overall?
-A bubble map chart is used to represent the relationship between number of participants and country. From this map, we can extract information about the country with the highest/least number of participants.
+A World map chart is used to represent the relationship between number of participants and country. From this map, we can extract information about the country with the highest/least number of participants.
  
 2. Which country has the highest number of participants in each sport in Olympics 2021 ?
-A bubble map chart is used to represent the relationship between the number of participants in each sport and country. From this map, we can extract information about the country with highest/least participation in each sport.
+A word cloud chart is used to represent the relationship between the number of participants in each sport and country. From this map, we can extract information about the country with highest/least participation in each sport.
 
 3. Which gender has more participation in a given sport?
-A heatmap chart is used to show the number of women and men participants in each sport. This map can be used to get information about which sport has the highest/lowest women/men participants.
+A Stacked bar plot 1 is used to show the number of women and men participants in each sport. This map can be used to get information about which sport has the highest/lowest women/men participants.
 
 4. Countries and number of gold, silver and bronze medals.
 A stacked bar chart is used to show the number of gold, silver and bronze medals won by each country. From this map, we can get information about countries with maximum number of medals, least number of medals, maximum/least number of gold/silver/bronze medals.
@@ -44,17 +44,19 @@ A stacked bar chart is used to show the number of gold, silver and bronze medals
 5. Which country has the highest number of coaches?
 A bargraph map is used to show the number of coaches in each country. We can obtain information about the country that has the highest and lowest number of coaches using this map.
 
-
+## Source Code:
+Jupyter Notebook - 
+Tableau- 
 
 ## Future work:
 This analysis can be used for future prediction of the participation of countries, analyse the growth of the countries’ athletes, and to strategize and improve the performance of a particular country. Moreover, by doing so we can improve the quality and experience of the Olympic games.
 
-### Group Number: 6
-
-## Group Members:
+## Group 6 Members:
 Vaishnavi Mahesha  
 Ouchithya Bollu  
 Karthikeyan Mehalingam  
 Gowri Alwarsamy
-
 Sai RaviRaj
+
+## Link to Documentation(Google Docs)
+Documentation: https://docs.google.com/document/d/1jRtqLEbgMeFCbdo-s8AQDcoV91tcnw_-HNHUgZBFmC8/edit
