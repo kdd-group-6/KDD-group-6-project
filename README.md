@@ -13,7 +13,8 @@ The dataset also contains details regarding the medals tally of each Team /Count
 Athletes.xlsx - 3 features.  
 Coaches.xlsx - 3 features.  
 EntriesGender.xlsx - 4 features.  
-Medals.xlsx - 4 features.  
+Medals.xlsx - 7 features.  
+Teams.xlsx - 4 features.  
 
 The goal of this project is to use proper visualizing techniques and appropriate representation to get meaningful insights out of this data.
 
@@ -24,41 +25,41 @@ Kaggle Dataset Link: https://www.kaggle.com/arjunprasadsarkhel/2021-olympics-in-
 1. Date Preprocessing.  
 2. Data Understanding and Exploration.  
 3. Data Preparation for Modeling.  
-4. Modeling.  
-5. Evaluation.
-6. Results.  
+4. Visualization.  
+5. Results.  
 
 ## Research questions:
-1. Which country has the highest number of participants in Olympics 2021 overall?
-A World map chart is used to represent the relationship between number of participants and country. From this map, we can extract information about the country with the highest/least number of participants.
+1. Which country has the highest number of participants in Olympics 2021 overall?  
+A World map chart is used to represent the relationship between number of participants and country. From this map, we can extract information about the country with the highest/least number of participants.  
  
-2. Which country has the highest number of participants in each sport in Olympics 2021 ?
-A word cloud chart is used to represent the relationship between the number of participants in each sport and country. From this map, we can extract information about the country with highest/least participation in each sport.
+2. Which Event has the highest number of participants in Olympics 2021 ?  
+A word cloud chart is used to represent the relationship between the number of participants in each sport and country. From this map, we can extract information about the country with highest/least participation in each sport.  
 
-3. Which gender has more participation in a given sport?
-A Stacked bar plot 1 is used to show the number of women and men participants in each sport. This map can be used to get information about which sport has the highest/lowest women/men participants.
+3. Which gender has more participation in a given sport?  
+A Stacked bar plot 1 is used to show the number of women and men participants in each sport. This map can be used to get information about which sport has the highest/lowest women/men participants.  
 
-4. Countries and number of gold, silver and bronze medals.
-A stacked bar chart is used to show the number of gold, silver and bronze medals won by each country. From this map, we can get information about countries with maximum number of medals, least number of medals, maximum/least number of gold/silver/bronze medals.
+4. Countries and number of gold, silver and bronze medals.  
+A bar chart is used to show the number of gold, silver and bronze medals won by each country. From this map, we can get information about countries with maximum number of medals, least number of medals, maximum/least number of gold/silver/bronze medals.  
 
-5. Which country has the highest number of coaches?
-A bargraph map is used to show the number of coaches in each country. We can obtain information about the country that has the highest and lowest number of coaches using this map.
+5. Which country has the highest number of coaches?  
+A bargraph map is used to show the number of coaches in each country. We can obtain information about the country that has the highest and lowest number of coaches using this map.  
 
-## Source Code:
-Jupyter Notebook - 
-Tableau- 
+## Tools Used:
+Jupyter Notebook  
+Tableau  
+
+## Instruction to run Project:  
+Dataset has been provided along with the notebook file. Download the notebook file and run it in a Jupyter notebook. Dataset must be downloaded and the path for dataset must be updated in the notebook file in order to run the project.
 
 ## Future work:
-This analysis can be used for future prediction of the participation of countries, analyse the growth of the countries’ athletes, and to strategize and improve the performance of a particular country. Moreover, by doing so we can improve the quality and experience of the Olympic games.
+This analysis along with previous olympics data can be used for future prediction of the participation of countries, analyse the growth of the countries, athletes, and to strategize and improve the performance of a particular country. Moreover, by doing so we can improve the quality and experience of the Olympic games. Modelling can also be done to predict the number of participants from each country, number of medals countries can get and the dominance of specific countries in each event for future olympics.
 
 ## Group 6 Members:
-Sai RaviRaj</br>
+Sai RaviRaj  
 Vaishnavi Mahesha  
 Ouchithya Bollu  
 Karthikeyan Mehalingam  
-Gowri Alwarsamy
-
-
+Gowri Alwarsamy  
 
 ## Link to Documentation(Google Docs)
-Documentation: https://docs.google.com/document/d/1jRtqLEbgMeFCbdo-s8AQDcoV91tcnw_-HNHUgZBFmC8/edit
+Documentation: https://docs.google.com/document/d/1THkOpIRIbcpj_VhJVHU6KZ8fFOLh9lC2dEa9NaDVPZU/edit?usp=sharing  
