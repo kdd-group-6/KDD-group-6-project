@@ -63,3 +63,8 @@ Gowri Alwarsamy
 
 ## Link to Documentation(Google Docs)
 Documentation: https://docs.google.com/document/d/1THkOpIRIbcpj_VhJVHU6KZ8fFOLh9lC2dEa9NaDVPZU/edit?usp=sharing  
+
+## link to Presented and Narrated Presentation
+Kindly, Please download the file for viewing.
+Link- https://github.com/kdd-group-6/KDD-group-6-project/tree/main/Narrated%20Video%20Presentation%20of%20Project
+
