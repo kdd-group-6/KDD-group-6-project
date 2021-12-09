@@ -29,19 +29,19 @@ Documentation: https://docs.google.com/document/d/1jRtqLEbgMeFCbdo-s8AQDcoV91tcn
 6. Results.  
 
 ## Research questions:
-Which country has the highest number of participants in Olympics 2021 overall?
+1. Which country has the highest number of participants in Olympics 2021 overall?
 A bubble map chart is used to represent the relationship between number of participants and country. From this map, we can extract information about the country with the highest/least number of participants.
  
-Which country has the highest number of participants in each sport in Olympics 2021 ?
+2. Which country has the highest number of participants in each sport in Olympics 2021 ?
 A bubble map chart is used to represent the relationship between the number of participants in each sport and country. From this map, we can extract information about the country with highest/least participation in each sport.
 
-Which gender has more participation in a given sport?
+3. Which gender has more participation in a given sport?
 A grouped bar chart is used to show the number of women and men participants in each sport. This map can be used to get information about which sport has the highest/lowest women/men participants.
 
-Countries and number of gold, silver and bronze medals.
+4. Countries and number of gold, silver and bronze medals.
 A stacked bar chart is used to show the number of gold, silver and bronze medals won by each country. From this map, we can get information about countries with maximum number of medals, least number of medals, maximum/least number of gold/silver/bronze medals.
 
-Which country has the highest number of coaches?
+5. Which country has the highest number of coaches?
 A point map is used to show the number of coaches in each country. We can obtain information about the country that has the highest and lowest number of coaches using this map.
 
 ## Future work:
@@ -54,5 +54,4 @@ Vaishnavi Mahesha
 Ouchithya Bollu  
 Karthikeyan Mehalingam  
 Gowri Alwarsamy
-
 Sai RaviRaj
