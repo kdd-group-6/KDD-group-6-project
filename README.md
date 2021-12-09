@@ -52,11 +52,13 @@ Tableau-
 This analysis can be used for future prediction of the participation of countries, analyse the growth of the countries’ athletes, and to strategize and improve the performance of a particular country. Moreover, by doing so we can improve the quality and experience of the Olympic games.
 
 ## Group 6 Members:
+Sai RaviRaj</br>
 Vaishnavi Mahesha  
 Ouchithya Bollu  
 Karthikeyan Mehalingam  
 Gowri Alwarsamy
-Sai RaviRaj
+
+
 
 ## Link to Documentation(Google Docs)
 Documentation: https://docs.google.com/document/d/1jRtqLEbgMeFCbdo-s8AQDcoV91tcnw_-HNHUgZBFmC8/edit
